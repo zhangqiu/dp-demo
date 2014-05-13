@@ -2,6 +2,12 @@ package com.umpay.dp.builder;
 
 import java.util.ArrayList;
 
+/**
+ * 产品类。通常是一个原型模式
+ * 
+ * @author apline
+ *
+ */
 public abstract class CarModel
 {
 	public final static int ENGINE_BOOM = 1;

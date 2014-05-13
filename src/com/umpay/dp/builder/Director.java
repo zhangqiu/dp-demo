@@ -2,6 +2,12 @@ package com.umpay.dp.builder;
 
 import java.util.ArrayList;
 
+/**
+ * µº—›¿‡
+ * 
+ * @author apline
+ *
+ */
 public class Director
 {
 
