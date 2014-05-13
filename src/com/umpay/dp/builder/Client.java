@@ -5,7 +5,7 @@ public class Client
 	/**
 	 * 建造者模式。
 	 * 
-	 * GitHub上传测试。1
+	 * GitHub上传测试。
 	 * 
 	 * @param args
 	 */
