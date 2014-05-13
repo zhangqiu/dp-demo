@@ -5,7 +5,6 @@ public class Client
 	/**
 	 * 建造者模式。
 	 * 
-	 * 
 	 * @param args
 	 */
 	public static void main(String[] args)

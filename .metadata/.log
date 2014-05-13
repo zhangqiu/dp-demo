@@ -29,3 +29,15 @@ Binding(ALT+COMMAND+Q P,
 		[Lorg.eclipse.e4.ui.internal.workbench.Parameter;@1970b890,,true),[Lorg.eclipse.core.commands.Parameterization;@376502fc),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,cocoa,system)
+
+!ENTRY org.eclipse.egit.core 4 0 2014-05-13 10:19:03.307
+!MESSAGE An exception occurred during push on URI file:////Volumes/Mac HDD Extend/workspace/github/dp-demo: file:////Volumes/Mac HDD Extend/workspace/github/dp-demo: not found.
+!STACK 0
+org.eclipse.jgit.errors.NoRemoteRepositoryException: file:////Volumes/Mac HDD Extend/workspace/github/dp-demo: not found.
+	at org.eclipse.jgit.transport.TransportLocal$1.open(TransportLocal.java:131)
+	at org.eclipse.jgit.transport.TransportBundleFile$1.open(TransportBundleFile.java:106)
+	at org.eclipse.jgit.transport.Transport.open(Transport.java:556)
+	at org.eclipse.jgit.transport.Transport.open(Transport.java:527)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:185)
+	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:206)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
