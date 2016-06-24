@@ -1,4 +1,4 @@
-commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>Test</message>\n<message>\u4E0A\u4F20\u6D4B\u8BD5</message>\n<message>test</message>\n<message>\u6839\u636E\u300A\u8BBE\u8BA1\u6A21\u5F0F\u4E4B\u7985\u300B\u6574\u7406\u7684\u5404\u79CD\u8BBE\u8BA1\u6A21\u5F0FDemo\u3002</message>\n</messages>
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>\u589E\u52A0\u89E3\u6790\u5668\u6A21\u5F0F&\#x0A;</message>\n<message>\u589E\u52A0\u72B6\u6001\u6A21\u5F0F</message>\n<message>Test</message>\n<message>\u4E0A\u4F20\u6D4B\u8BD5</message>\n<message>test</message>\n<message>\u6839\u636E\u300A\u8BBE\u8BA1\u6A21\u5F0F\u4E4B\u7985\u300B\u6574\u7406\u7684\u5404\u79CD\u8BBE\u8BA1\u6A21\u5F0FDemo\u3002</message>\n</messages>
 default_repository_dir=${build_files}
 eclipse.preferences.version=1
 merge_mode=0
